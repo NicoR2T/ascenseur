@@ -1,6 +1,6 @@
 # Jeu de l'ascenseur
-Projet Ocaml
-Deuxième année de Prépa
+Projet Ocaml  
+Deuxième année de Prépa  
 Le jeu se joue de 2 à 5 joueurs et avec un paquet de 52 cartes. Il est composé d’une phase ascendante et d’une phase
 descendante. Au début du jeu, le paquet de cartes est divisé par le nombre de joueurs afin de déterminer s’il y aura
 ou non un atout et quel sera le nombre maximal de carte que les joueurs pourront avoir en main. Ensuite chaque
